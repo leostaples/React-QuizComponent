@@ -11,7 +11,7 @@ class Quiz extends Component {
   render() {
     return (
       <div>
-        <div>Quiz</div>
+        <div class="QuizQuestion">Quiz</div>
       </div>
     )
   }
